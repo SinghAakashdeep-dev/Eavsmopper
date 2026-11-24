@@ -1,0 +1,17 @@
+# secrets and personal data
+.env
+settings.json
+transcripts/
+*.wav
+
+# python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# editors / OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store

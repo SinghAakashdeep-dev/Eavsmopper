@@ -1,0 +1,17 @@
+transformers
+torch
+accelerate
+sounddevice
+numpy
+soundfile
+faster-whisper
+PyAudioWPatch
+scipy
+PySide6
+python-dotenv
+pypdf
+openai
+anthropic
+python-docx
+python-pptx
+openpyxl
